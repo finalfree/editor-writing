@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.freefinal.editorwriting.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.freefinal.editorwriting.MyBundle
 
 class MyApplicationService {
 
